@@ -1,7 +1,5 @@
 # Sales-Performance-Analysis
 
-# Online Retail Analysis
-
 ## Overview
 
 This project conducts data analysis on an online retail dataset to extract valuable insights regarding sales trends, revenue distribution, and product performance. Utilizing Python libraries such as Pandas, Matplotlib, and Seaborn, this analysis aims to provide a deeper understanding of customer behaviors and sales patterns.
